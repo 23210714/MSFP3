@@ -1,4 +1,4 @@
-<div align="center">
+<div align="justify">
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=23210714/MSFP3)
 
     
@@ -505,7 +505,7 @@ El controlador PID se utilizará para reducir las diferencias entre ambas condic
 
 ---
 
-<div align="center">
+<div align="justify">
 
 **Tecnológico Nacional de México**  
 **Instituto Tecnológico de Tijuana**
