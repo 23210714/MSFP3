@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Práctica 3: Modelado y control del sistema
+  musculoesquelético
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Maria Luisa Michelle
+    name-particle: Muñoz Meneses
+    email: l23210714@tectijuana.edu.mx
+    affiliation: TecNM/ ITT Tijuana
+repository-code: 'https://github.com/23210714/MSFP3/tree/main'
+keywords:
+  - Sistema musculoesquelético
+  - 'Modelo mecánico '
+  - 'Analogía electromecánica '
+  - 'Atrofia muscular y elasticidad '
+  - 'Amortiguamiento viscoso  '
+  - 'Función de transferencia '
+  - 'Controlador PID '
+  - 'MATLAB/Simulink  '
+  - 'Python '
+  - simulación in silico.
+license: BSD-2-Clause
