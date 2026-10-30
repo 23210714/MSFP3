@@ -1,7 +1,8 @@
 <div align="center">
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=23210714/MSFP3)
+
     
-<div align="center">
+<div align="justified">
 
 # Práctica 3
 ## Modelado y control del sistema musculoesquelético
