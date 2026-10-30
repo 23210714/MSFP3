@@ -445,29 +445,9 @@ El diagrama permitirá identificar las diferencias entre el individuo sano y el 
 
 ---
 
-## 18. Entregables
 
-El repositorio deberá contener:
 
-- [ ] Análisis del modelo mecánico.
-- [ ] Analogía electromecánica.
-- [ ] Circuito eléctrico equivalente.
-- [ ] Desarrollo matemático.
-- [ ] Funciones de transferencia.
-- [ ] Archivos MATLAB y Simulink.
-- [ ] Modelo Simscape Electrical.
-- [ ] Código Python.
-- [ ] Gráficas de lazo abierto y cerrado.
-- [ ] Ganancias PID.
-- [ ] Diagrama BioRender.
-- [ ] Capturas de simulaciones.
-- [ ] Resultados y conclusiones.
-- [ ] Archivo `README.md`.
-- [ ] Archivo `CITATION.cff`.
-
----
-
-## 19. Resultados y conclusiones
+## 18. Resultados y conclusiones
 
 ### Resultados
 
@@ -492,7 +472,7 @@ El controlador PID se utilizará para reducir las diferencias entre ambas condic
 
 ---
 
-## 20. Referencias
+## 19. Referencias
 
 [1] M. C. Khoo, *Physiological Control Systems: Analysis, Simulation, and Estimation*, 2nd ed., IEEE Press, 2018.
 
