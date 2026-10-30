@@ -53,9 +53,8 @@
 15. [Implementación en Python](#15-implementación-en-python)
 16. [Verificación cruzada](#16-verificación-cruzada)
 17. [Diagrama biológico](#17-diagrama-biológico)
-18. [Entregables](#18-entregables)
-19. [Resultados y conclusiones](#19-resultados-y-conclusiones)
-20. [Referencias](#20-referencias)
+18. [Resultados y conclusiones](#19-resultados-y-conclusiones)
+19. [Referencias](#20-referencias)
 
 ---
 
