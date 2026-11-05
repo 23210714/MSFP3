@@ -442,6 +442,10 @@ Mediante BioRender se elaborará un diagrama que relacione las estructuras muscu
 
 El diagrama permitirá identificar las diferencias entre el individuo sano y el caso simulado.
 
+<img width="720" height="504" alt="WhatsApp Image 2026-11-04 at 8 20 08 PM" src="https://github.com/user-attachments/assets/4faada99-ecdc-460a-a5ea-23d0394136a5" />
+
+
+
 ---
 
 
